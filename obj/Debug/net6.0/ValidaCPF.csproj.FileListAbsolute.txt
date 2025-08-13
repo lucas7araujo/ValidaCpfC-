@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\bin\Debug\net6.0\ValidaCPF.exe
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\bin\Debug\net6.0\ValidaCPF.deps.json
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\bin\Debug\net6.0\ValidaCPF.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\bin\Debug\net6.0\ValidaCPF.dll
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\bin\Debug\net6.0\ValidaCPF.pdb
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\ValidaCPF.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\ValidaCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\ValidaCPF.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\ValidaCPF.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\ValidaCPF.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\ValidaCPF.dll
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\refint\ValidaCPF.dll
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\ValidaCPF.pdb
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\ValidaCPF.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Estudos C#\ValidaCPF\obj\Debug\net6.0\ref\ValidaCPF.dll
